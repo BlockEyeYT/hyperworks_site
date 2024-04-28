@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-noto-serif-thai: "Noto Serif Thai";
+  --font-futurist-fixed-width: "Futurist Fixed-width";
+  --font-noto-traditional-nushu: "Noto Traditional Nushu";
+  --font-jaldi: Jaldi;
+  --font-numans: Numans;
+  --font-nunito: Nunito;
+  --font-jockey-one: "Jockey One";
+  --font-jetbrains-mono: "JetBrains Mono";
+  --font-humanst521-bt: "Humanst521 BT";
+  --font-nunito-sans: "Nunito Sans";
+  --font-prosto-one: "Prosto One";
+  --font-modern-machine: "Modern Machine";
+  --font-inder: Inder;
+  --font-jejugothic: JejuGothic;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-17xl: 36px;
+  --font-size-21xl: 40px;
+  --font-size-11xl: 30px;
+  --font-size-14xl: 33px;
+  --font-size-26xl: 45px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-silver: #c6c6c6;
+  --color-red-100: #ff0000;
+  --color-red-200: #f60000;
+  --color-lime: #14ff00;
+  --color-lavenderblush: #fff3ff;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-4xs: 9px;
+}
